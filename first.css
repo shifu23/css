@@ -1,0 +1,18 @@
+td{
+    width: 100px;
+    height: 100px;
+}
+#white{
+    background: white;
+    
+}
+#black{
+    background: black;
+}
+table{
+    border: blue 3px solid;
+    margin: auto;
+}
+td:hover{
+    border: springgreen 2px solid;
+}
